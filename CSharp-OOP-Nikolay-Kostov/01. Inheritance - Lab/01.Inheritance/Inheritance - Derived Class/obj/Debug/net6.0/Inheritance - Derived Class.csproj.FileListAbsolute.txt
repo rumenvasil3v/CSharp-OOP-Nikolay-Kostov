@@ -1,0 +1,14 @@
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Derived Class\bin\Debug\net6.0\Inheritance - Derived Class.exe
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Derived Class\bin\Debug\net6.0\Inheritance - Derived Class.deps.json
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Derived Class\bin\Debug\net6.0\Inheritance - Derived Class.runtimeconfig.json
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Derived Class\bin\Debug\net6.0\Inheritance - Derived Class.dll
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Derived Class\bin\Debug\net6.0\Inheritance - Derived Class.pdb
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Derived Class\obj\Debug\net6.0\Inheritance - Derived Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Derived Class\obj\Debug\net6.0\Inheritance - Derived Class.AssemblyInfoInputs.cache
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Derived Class\obj\Debug\net6.0\Inheritance - Derived Class.AssemblyInfo.cs
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Derived Class\obj\Debug\net6.0\Inheritance - Derived Class.csproj.CoreCompileInputs.cache
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Derived Class\obj\Debug\net6.0\Inheritance - Derived Class.dll
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Derived Class\obj\Debug\net6.0\refint\Inheritance - Derived Class.dll
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Derived Class\obj\Debug\net6.0\Inheritance - Derived Class.pdb
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Derived Class\obj\Debug\net6.0\Inheritance - Derived Class.genruntimeconfig.cache
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Derived Class\obj\Debug\net6.0\ref\Inheritance - Derived Class.dll

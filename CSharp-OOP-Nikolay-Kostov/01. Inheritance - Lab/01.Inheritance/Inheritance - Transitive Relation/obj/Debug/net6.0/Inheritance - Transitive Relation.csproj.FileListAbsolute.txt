@@ -1,0 +1,14 @@
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Transitive Relation\bin\Debug\net6.0\Inheritance - Transitive Relation.exe
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Transitive Relation\bin\Debug\net6.0\Inheritance - Transitive Relation.deps.json
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Transitive Relation\bin\Debug\net6.0\Inheritance - Transitive Relation.runtimeconfig.json
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Transitive Relation\bin\Debug\net6.0\Inheritance - Transitive Relation.dll
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Transitive Relation\bin\Debug\net6.0\Inheritance - Transitive Relation.pdb
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Transitive Relation\obj\Debug\net6.0\Inheritance - Transitive Relation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Transitive Relation\obj\Debug\net6.0\Inheritance - Transitive Relation.AssemblyInfoInputs.cache
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Transitive Relation\obj\Debug\net6.0\Inheritance - Transitive Relation.AssemblyInfo.cs
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Transitive Relation\obj\Debug\net6.0\Inheritance - Transitive Relation.csproj.CoreCompileInputs.cache
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Transitive Relation\obj\Debug\net6.0\Inheritance - Transitive Relation.dll
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Transitive Relation\obj\Debug\net6.0\refint\Inheritance - Transitive Relation.dll
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Transitive Relation\obj\Debug\net6.0\Inheritance - Transitive Relation.pdb
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Transitive Relation\obj\Debug\net6.0\Inheritance - Transitive Relation.genruntimeconfig.cache
+D:\CSharp-OOP-Nikolay-Kostov\01. Inheritance - Lab\01.Inheritance\Inheritance - Transitive Relation\obj\Debug\net6.0\ref\Inheritance - Transitive Relation.dll
