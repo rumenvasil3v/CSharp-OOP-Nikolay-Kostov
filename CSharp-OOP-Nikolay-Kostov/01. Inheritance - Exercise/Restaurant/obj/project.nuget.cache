@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KxtcTXtq5q6MzQPyAHOvz3PNtFuJgxVfzZAik6aKz+1TUqsc+XezpJ/pbO/fS3f8OIBTFvIJxZ1zXUIby8K/eA==",
+  "dgSpecHash": "ue9pGC4Ul82PEU5QaLi3shQkENyf86nzFUTw0VoTn+cUyQHp9ad4m34H6QKkg65tYfJABz+f0fw8iOWuICT3aA==",
   "success": true,
-  "projectFilePath": "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Restaurant\\Restaurant.csproj",
+  "projectFilePath": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Restaurant\\Restaurant.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\NeedForSpeed\\NeedForSpeed.csproj": {}
+    "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\NeedForSpeed\\NeedForSpeed.csproj": {}
   },
   "projects": {
-    "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\NeedForSpeed\\NeedForSpeed.csproj": {
+    "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\NeedForSpeed\\NeedForSpeed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\NeedForSpeed\\NeedForSpeed.csproj",
+        "projectUniqueName": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\NeedForSpeed\\NeedForSpeed.csproj",
         "projectName": "NeedForSpeed",
-        "projectPath": "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\NeedForSpeed\\NeedForSpeed.csproj",
+        "projectPath": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\NeedForSpeed\\NeedForSpeed.csproj",
         "packagesPath": "C:\\Users\\rumen\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\NeedForSpeed\\obj\\",
+        "outputPath": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\NeedForSpeed\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rumen\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp-OOP-Nikolay-Kostov\\02. Working with Abstraction\\WorkingWithAbstraction\\WorkingWithAbstraction\\WorkingWithAbstraction.csproj": {}
+    "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\02. Working with Abstraction\\WorkingWithAbstraction\\WorkingWithAbstraction\\WorkingWithAbstraction.csproj": {}
   },
   "projects": {
-    "D:\\CSharp-OOP-Nikolay-Kostov\\02. Working with Abstraction\\WorkingWithAbstraction\\WorkingWithAbstraction\\WorkingWithAbstraction.csproj": {
+    "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\02. Working with Abstraction\\WorkingWithAbstraction\\WorkingWithAbstraction\\WorkingWithAbstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp-OOP-Nikolay-Kostov\\02. Working with Abstraction\\WorkingWithAbstraction\\WorkingWithAbstraction\\WorkingWithAbstraction.csproj",
+        "projectUniqueName": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\02. Working with Abstraction\\WorkingWithAbstraction\\WorkingWithAbstraction\\WorkingWithAbstraction.csproj",
         "projectName": "WorkingWithAbstraction",
-        "projectPath": "D:\\CSharp-OOP-Nikolay-Kostov\\02. Working with Abstraction\\WorkingWithAbstraction\\WorkingWithAbstraction\\WorkingWithAbstraction.csproj",
+        "projectPath": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\02. Working with Abstraction\\WorkingWithAbstraction\\WorkingWithAbstraction\\WorkingWithAbstraction.csproj",
         "packagesPath": "C:\\Users\\rumen\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp-OOP-Nikolay-Kostov\\02. Working with Abstraction\\WorkingWithAbstraction\\WorkingWithAbstraction\\obj\\",
+        "outputPath": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\02. Working with Abstraction\\WorkingWithAbstraction\\WorkingWithAbstraction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rumen\\AppData\\Roaming\\NuGet\\NuGet.Config",

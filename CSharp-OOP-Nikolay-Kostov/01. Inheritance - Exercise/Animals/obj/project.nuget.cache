@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P76VlXrtGMOekNxPxtS4S+mTHVk4MTKInTBDwhEZ1l4eS5Hte/UJAhMEUCnht6UaLJmBxK1fL+irE0vp6d4pPQ==",
+  "dgSpecHash": "XIQJKncFRaHqCMdoCrP5MTcjBhbaBA4BdTcMQ5D6bsTEReQBJhu69gIhRMVmc4fZqjoajbbQPUp35G9tKREdWA==",
   "success": true,
-  "projectFilePath": "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Animals\\Animals.csproj",
+  "projectFilePath": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Animals\\Animals.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

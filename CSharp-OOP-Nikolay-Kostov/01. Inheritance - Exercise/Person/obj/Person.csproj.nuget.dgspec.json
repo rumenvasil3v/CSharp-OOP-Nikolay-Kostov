@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Person\\Person.csproj": {}
+    "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Person\\Person.csproj": {}
   },
   "projects": {
-    "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Person\\Person.csproj": {
+    "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Person\\Person.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Person\\Person.csproj",
+        "projectUniqueName": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Person\\Person.csproj",
         "projectName": "Person",
-        "projectPath": "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Person\\Person.csproj",
+        "projectPath": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Person\\Person.csproj",
         "packagesPath": "C:\\Users\\rumen\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Person\\obj\\",
+        "outputPath": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Person\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rumen\\AppData\\Roaming\\NuGet\\NuGet.Config",

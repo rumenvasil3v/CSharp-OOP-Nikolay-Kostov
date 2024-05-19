@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Restaurant\\Restaurant.csproj",
+      "projectUniqueName": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Restaurant\\Restaurant.csproj",
       "projectName": "Restaurant",
-      "projectPath": "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Restaurant\\Restaurant.csproj",
+      "projectPath": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Restaurant\\Restaurant.csproj",
       "packagesPath": "C:\\Users\\rumen\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Restaurant\\obj\\",
+      "outputPath": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Restaurant\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rumen\\AppData\\Roaming\\NuGet\\NuGet.Config",

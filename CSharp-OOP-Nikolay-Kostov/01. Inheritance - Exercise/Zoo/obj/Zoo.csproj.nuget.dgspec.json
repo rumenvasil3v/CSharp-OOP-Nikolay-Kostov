@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Zoo\\Zoo.csproj": {}
+    "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Zoo\\Zoo.csproj": {}
   },
   "projects": {
-    "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Zoo\\Zoo.csproj": {
+    "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Zoo\\Zoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Zoo\\Zoo.csproj",
+        "projectUniqueName": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Zoo\\Zoo.csproj",
         "projectName": "Zoo",
-        "projectPath": "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Zoo\\Zoo.csproj",
+        "projectPath": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Zoo\\Zoo.csproj",
         "packagesPath": "C:\\Users\\rumen\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Zoo\\obj\\",
+        "outputPath": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Zoo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rumen\\AppData\\Roaming\\NuGet\\NuGet.Config",

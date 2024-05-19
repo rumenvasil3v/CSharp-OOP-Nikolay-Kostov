@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U143rpiWIT2yHJBljXoCkQL7ku7hE8Gx61Sio+ZwK4R0gvBbwDGeEJ4uqZwdYro66jkeJuzH8atol7RmtGW6lw==",
+  "dgSpecHash": "1d9CoqnjDq2YbaMq7NXnMAAIZ5vJXTKsmmWXAG3+g7sQhuhQnN7EbqvFLEdXu3jOgO2AbZ5qMaWrhFECuu9WUA==",
   "success": true,
-  "projectFilePath": "D:\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Person\\Person.csproj",
+  "projectFilePath": "D:\\CSharp-OOP-Nikolay-Kostov\\CSharp-OOP-Nikolay-Kostov\\01. Inheritance - Exercise\\Person\\Person.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
