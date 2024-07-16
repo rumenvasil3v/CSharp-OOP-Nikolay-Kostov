@@ -1,0 +1,14 @@
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Demo\bin\Debug\net6.0\Demo.exe
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Demo\bin\Debug\net6.0\Demo.deps.json
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Demo\bin\Debug\net6.0\Demo.dll
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Demo\bin\Debug\net6.0\Demo.pdb
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Demo\obj\Debug\net6.0\Demo.dll
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Demo\obj\Debug\net6.0\refint\Demo.dll
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Demo\obj\Debug\net6.0\Demo.pdb
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Demo\obj\Debug\net6.0\ref\Demo.dll

@@ -1,0 +1,14 @@
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\01.Persons\bin\Debug\net6.0\01.Persons.exe
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\01.Persons\bin\Debug\net6.0\01.Persons.deps.json
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\01.Persons\bin\Debug\net6.0\01.Persons.runtimeconfig.json
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\01.Persons\bin\Debug\net6.0\01.Persons.dll
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\01.Persons\bin\Debug\net6.0\01.Persons.pdb
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\01.Persons\obj\Debug\net6.0\01.Persons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\01.Persons\obj\Debug\net6.0\01.Persons.AssemblyInfoInputs.cache
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\01.Persons\obj\Debug\net6.0\01.Persons.AssemblyInfo.cs
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\01.Persons\obj\Debug\net6.0\01.Persons.csproj.CoreCompileInputs.cache
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\01.Persons\obj\Debug\net6.0\01.Persons.dll
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\01.Persons\obj\Debug\net6.0\refint\01.Persons.dll
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\01.Persons\obj\Debug\net6.0\01.Persons.pdb
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\01.Persons\obj\Debug\net6.0\01.Persons.genruntimeconfig.cache
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\01.Persons\obj\Debug\net6.0\ref\01.Persons.dll

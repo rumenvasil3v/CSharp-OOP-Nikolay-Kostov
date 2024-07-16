@@ -1,0 +1,14 @@
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\MutableVsImmutable\bin\Debug\net6.0\MutableVsImmutable.exe
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\MutableVsImmutable\bin\Debug\net6.0\MutableVsImmutable.deps.json
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\MutableVsImmutable\bin\Debug\net6.0\MutableVsImmutable.runtimeconfig.json
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\MutableVsImmutable\bin\Debug\net6.0\MutableVsImmutable.dll
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\MutableVsImmutable\bin\Debug\net6.0\MutableVsImmutable.pdb
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\MutableVsImmutable\obj\Debug\net6.0\MutableVsImmutable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\MutableVsImmutable\obj\Debug\net6.0\MutableVsImmutable.AssemblyInfoInputs.cache
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\MutableVsImmutable\obj\Debug\net6.0\MutableVsImmutable.AssemblyInfo.cs
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\MutableVsImmutable\obj\Debug\net6.0\MutableVsImmutable.csproj.CoreCompileInputs.cache
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\MutableVsImmutable\obj\Debug\net6.0\MutableVsImmutable.dll
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\MutableVsImmutable\obj\Debug\net6.0\refint\MutableVsImmutable.dll
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\MutableVsImmutable\obj\Debug\net6.0\MutableVsImmutable.pdb
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\MutableVsImmutable\obj\Debug\net6.0\MutableVsImmutable.genruntimeconfig.cache
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\MutableVsImmutable\obj\Debug\net6.0\ref\MutableVsImmutable.dll

@@ -1,0 +1,14 @@
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Inheritance-Test\bin\Debug\net6.0\Inheritance-Test.exe
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Inheritance-Test\bin\Debug\net6.0\Inheritance-Test.deps.json
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Inheritance-Test\bin\Debug\net6.0\Inheritance-Test.runtimeconfig.json
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Inheritance-Test\bin\Debug\net6.0\Inheritance-Test.dll
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Inheritance-Test\bin\Debug\net6.0\Inheritance-Test.pdb
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Inheritance-Test\obj\Debug\net6.0\Inheritance-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Inheritance-Test\obj\Debug\net6.0\Inheritance-Test.AssemblyInfoInputs.cache
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Inheritance-Test\obj\Debug\net6.0\Inheritance-Test.AssemblyInfo.cs
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Inheritance-Test\obj\Debug\net6.0\Inheritance-Test.csproj.CoreCompileInputs.cache
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Inheritance-Test\obj\Debug\net6.0\Inheritance-Test.dll
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Inheritance-Test\obj\Debug\net6.0\refint\Inheritance-Test.dll
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Inheritance-Test\obj\Debug\net6.0\Inheritance-Test.pdb
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Inheritance-Test\obj\Debug\net6.0\Inheritance-Test.genruntimeconfig.cache
+C:\Users\Rumen\Documents\CSharp-OOP-Nikolay-Kostov\CSharp-OOP-Nikolay-Kostov\03. Encapsulation - Lab\Encapsulation - Lab\Inheritance-Test\obj\Debug\net6.0\ref\Inheritance-Test.dll
